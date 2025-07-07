@@ -1,4 +1,4 @@
-.env dosyasını doldur: Discord Developer Portal'a git, bir bot oluştur (veya mevcut olanı kullan), "Bot" sekmesinden TOKEN'ını al, OAuth2'den CLIENT_ID al, GUILD_ID al.
+.env dosyasını doldur: Discord Developer Portal'a git, bir bot oluştur (veya mevcut olanı kullan), "Bot" sekmesinden TOKEN'ını al, OAuth2'den CLIENT_ID al, Sunucuna Sağ Tıklayıp Sunucu Id'sini Kopyala'de GUILD_ID al.
 
 config.json dan prefixi değiştirmeyi unutma !
 
