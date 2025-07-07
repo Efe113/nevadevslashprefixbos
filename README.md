@@ -24,4 +24,11 @@ node index.js
 ```
 **Bu Komut İse Botu Başlatır.**
 
+# SLASH KOMUTLARI YÜKLEME
+
+```bash
+node deploy-slash-commands.js
+```
+**Yazarak Yapabilirsiniz.**
+
 ## Bu Altyapı NEVA DEVELOPMENT Tarafından Yapılmıştır. Çalma Veya Kopyalamak Yasaktır !
