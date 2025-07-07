@@ -1,29 +1,27 @@
-.env dosyasını doldur: Discord Developer Portal'a git, bir bot oluştur (veya mevcut olanı kullan), "Bot" sekmesinden TOKEN'ını al, OAuth2'den CLIENT_ID al, Sunucuna Sağ Tıklayıp Sunucu Id'sini Kopyala'de GUILD_ID al.
+# NEVA DEVELOPMENT SLASH + PREFİX DESTEKLİ BOŞ ALTYAPI
 
-config.json dan prefixi değiştirmeyi unutma !
+# KURULUM
+
+**İlk Olarak [Discord Developer Portal](https://discord.com/developers/applications)'dan Bir Tane Bot Oluşturun.**
+
+**Ardından Soldaki Bot Sekmesine Girin, Orada Tokeni Yenile Veya Reset Token Butonu Olacaktır Ona Basın Ve Token Alın.**
+
+**O Tokeni .env dosyasında bulunan TOKEN= adlı yere yapıştırın.**
+
+**Client ID İçin OAuth2 Sekmesine Gidin Orada Client ID Olacaktır Alın.**
+
+**Guild ID İçin Sunucunu Resmine Sağ Tıklayın Ardından Sunucu ID'sini Kopyala Basın.**
+
+**config.json'da ise prefix olacaktır orijinal olarak ! de gelir değiştirebilirsiniz.**
 
 ```bash
 npm install
 ```
-
-Slash İçim
-```bash
-npm ruh deploy
-```
-
-Botu başlatmak için terminale şunu yaz:
-
-```bash
-npm start
-```
-
-veya
+**Bu Komutu Terminalinize Yazın Ardından**
 
 ```bash
 node index.js
 ```
+**Bu Komut İse Botu Başlatır.**
 
-```bash
-Bu Altyapı da Message Intent Açılması Zorunludur ! Aksi Takdirde Komutlar Çalışmaz.
-```
-**Bu Altyapı Neva Development Sunucusuna Aittir. Çalma Veya Kopyalama Durumunda İşlem Başlatılır.**
+## Bu Altyapı NEVA DEVELOPMENT Tarafından Yapılmıştır. Çalma Veya Kopyalamak Yasaktır !
