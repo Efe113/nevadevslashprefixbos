@@ -31,4 +31,8 @@ node deploy-slash-commands.js
 ```
 **Yazarak Yapabilirsiniz.**
 
+# ÖNEMLİ NOTLAR
+
+### **Bu Botun Çalışabilmesi İçin Message Intent Açık Olması Zorundadır !**
+
 ## Bu Altyapı NEVA DEVELOPMENT Tarafından Yapılmıştır. Çalma Veya Kopyalamak Yasaktır !
