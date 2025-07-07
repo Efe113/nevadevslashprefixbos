@@ -1,5 +1,7 @@
 # NEVA DEVELOPMENT SLASH + PREFİX DESTEKLİ BOŞ ALTYAPI
 
+## Sadece Prefixli Veya Sadecee Slashlı İçin Discord Sunucumuza Katılın ! [Discord Sunucumuz](https://discord.gg/altyapi)
+
 # KURULUM
 
 **İlk Olarak [Discord Developer Portal](https://discord.com/developers/applications)'dan Bir Tane Bot Oluşturun.**
